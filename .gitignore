@@ -216,3 +216,21 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Scanora dataset folders
+data/
+data_processed/
+dataset/
+*.zip
+
+# Local environment
+.venv/
+venv/
+env/
+
+# Secret files
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
