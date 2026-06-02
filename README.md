@@ -1,6 +1,6 @@
 # Scanora - Data Science Documentation
 
-Scanora adalah proyek capstone bertema sustainable living yang berfokus pada deteksi dan pengelolaan kesegaran buah. Repository ini berisi pekerjaan dari learning path **Data Scientist**, meliputi pengumpulan dataset, data assessing, data cleaning, feature engineering, exploratory data analysis, visualisasi, preprocessing, serta pengembangan dashboard analisis data.
+Scanora adalah proyek capstone bertema _sustainable living_ yang berfokus pada deteksi dan pengelolaan kesegaran buah. Repository ini berisi pekerjaan dari learning path **Data Scientist**, meliputi data gathering, data assessing, data cleaning, feature engineering, exploratory data analysis, visualisasi, preprocessing, serta pengembangan dashboard analisis data.
 
 ## Project Scope
 
