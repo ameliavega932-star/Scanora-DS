@@ -190,6 +190,7 @@ Dashboard menampilkan:
 * Key insights.
 
 Streamlit Dashboard Repository: https://github.com/emilianaaelgaa/scanora-dashboard.git
+
 Live Dashboard: https://scanora-dashboard-capstone-project.streamlit.app
 
 ## Project Structure
