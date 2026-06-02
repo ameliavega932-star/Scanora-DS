@@ -226,7 +226,7 @@ Catatan:
 * `data/` berisi fruits image dataset mentah.
 * `DS_DICODING.ipynb` merupakan notebook utama untuk proses Data Science.
 * `Fruits Consumption Dataset.csv` merupakan dataset konsumsi buah dari BPS.
-* * `requirements.txt` berisi daftar dependencies yang diperlukan untuk menjalankan notebook.
+* `requirements.txt` berisi daftar dependencies yang diperlukan untuk menjalankan notebook.
 
 ## How to Reproduce
 
